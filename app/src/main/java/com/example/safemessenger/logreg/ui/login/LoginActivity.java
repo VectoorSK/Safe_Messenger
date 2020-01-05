@@ -1,4 +1,4 @@
-package com.example.safemessenger.login.ui.login;
+package com.example.safemessenger.logreg.ui.login;
 
 import android.app.Activity;
 
@@ -23,8 +23,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.safemessenger.R;
-import com.example.safemessenger.login.ui.login.LoginViewModel;
-import com.example.safemessenger.login.ui.login.LoginViewModelFactory;
 
 public class LoginActivity extends AppCompatActivity {
 

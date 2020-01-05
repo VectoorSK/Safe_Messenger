@@ -1,4 +1,4 @@
-package com.example.safemessenger.login.ui.login;
+package com.example.safemessenger.logreg.ui.login;
 
 import androidx.annotation.Nullable;
 

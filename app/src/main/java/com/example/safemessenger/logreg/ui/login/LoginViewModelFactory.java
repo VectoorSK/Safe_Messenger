@@ -1,11 +1,11 @@
-package com.example.safemessenger.login.ui.login;
+package com.example.safemessenger.logreg.ui.login;
 
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.annotation.NonNull;
 
-import com.example.safemessenger.login.data.LoginDataSource;
-import com.example.safemessenger.login.data.LoginRepository;
+import com.example.safemessenger.logreg.data.LoginDataSource;
+import com.example.safemessenger.logreg.data.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.

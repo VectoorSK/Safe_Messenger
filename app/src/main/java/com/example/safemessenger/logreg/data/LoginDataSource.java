@@ -1,6 +1,6 @@
-package com.example.safemessenger.login.data;
+package com.example.safemessenger.logreg.data;
 
-import com.example.safemessenger.login.data.model.LoggedInUser;
+import com.example.safemessenger.logreg.data.model.LoggedInUser;
 
 import java.io.IOException;
 

@@ -1,6 +1,6 @@
-package com.example.safemessenger.login.data;
+package com.example.safemessenger.logreg.data;
 
-import com.example.safemessenger.login.data.model.LoggedInUser;
+import com.example.safemessenger.logreg.data.model.LoggedInUser;
 
 /**
  * Class that requests authentication and user information from the remote data source and

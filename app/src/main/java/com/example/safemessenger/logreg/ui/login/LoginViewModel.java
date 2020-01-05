@@ -1,4 +1,4 @@
-package com.example.safemessenger.login.ui.login;
+package com.example.safemessenger.logreg.ui.login;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
@@ -6,9 +6,9 @@ import androidx.lifecycle.ViewModel;
 
 import android.util.Patterns;
 
-import com.example.safemessenger.login.data.LoginRepository;
-import com.example.safemessenger.login.data.Result;
-import com.example.safemessenger.login.data.model.LoggedInUser;
+import com.example.safemessenger.logreg.data.LoginRepository;
+import com.example.safemessenger.logreg.data.Result;
+import com.example.safemessenger.logreg.data.model.LoggedInUser;
 import com.example.safemessenger.R;
 
 public class LoginViewModel extends ViewModel {

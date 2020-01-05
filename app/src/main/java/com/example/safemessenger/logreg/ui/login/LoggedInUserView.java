@@ -1,4 +1,4 @@
-package com.example.safemessenger.login.ui.login;
+package com.example.safemessenger.logreg.ui.login;
 
 /**
  * Class exposing authenticated user details to the UI.
