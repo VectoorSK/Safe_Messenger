@@ -1,4 +1,4 @@
-package com.example.safemessenger.logreg.Registration;
+package com.example.safemessenger.logreg.registration;
 
 import androidx.appcompat.app.AppCompatActivity;
 
